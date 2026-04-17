@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+._*
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment secrets
+.env
+
+# Node modules (if using any scripts)
+node_modules/
+package.json
+package-lock.json
+
+# Temporary files
+*.tmp
+*.bak
+.tmp-*/
